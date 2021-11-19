@@ -44,3 +44,6 @@ for (var i=0;i<questions.length;i++){
     var currentquestion = questions[i]
     test(currentquestion.question,currentquestion.answer)
 }
+
+
+console.log("i'm from odisha")
