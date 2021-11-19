@@ -46,6 +46,4 @@ for (var i=0;i<questions.length;i++){
 }
 
 
-console.log("i'm from odisha")
-var k=0;
-console.log(k)
+
